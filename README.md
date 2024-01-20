@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rtaeho&show_icons=true&theme=transparent)<br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtaeho&layout=compact&theme=tokyonight)<br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ryou0920)](https://solved.ac/ryou0920)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryou0920)](https://solved.ac/ryou0920)
 
 
 
