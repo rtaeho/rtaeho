@@ -9,12 +9,12 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=rtaeho&theme=dark&background=000000" alt="GitHub Streaks" />
       </td>
       <td style="border: none; background-color: transparent; ">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtaeho&layout=compact&theme=tokyonight" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtaeho&layout=compact&theme=catppuccin_mocha" alt="Top Langs" />
       </td>
     </tr>
     <tr style="border: none;">
       <td style="border: none; background-color: transparent; ">
-        <img src="https://github-readme-stats.vercel.app/api?username=rtaeho&show_icons=true&theme=transparent" alt="GitHub stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=rtaeho&show_icons=true&theme=holi" alt="GitHub stats"/>
       </td>
       <td style="border: none; background-color: transparent; ">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ryou0920" alt="Solved.ac Profile"/>
