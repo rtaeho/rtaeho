@@ -17,7 +17,9 @@
         <img src="https://github-readme-stats.vercel.app/api?username=rtaeho&show_icons=true&theme=holi" alt="GitHub stats"/>
       </td>
       <td style="border: none; background-color: transparent; ">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ryou0920" alt="Solved.ac Profile"/>
+        <a href="https://solved.ac/ryou0920" target="_blank">
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ryou0920" alt="Solved.ac Profile"/>
+        </a>
       </td>
     </tr>
 
