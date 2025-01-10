@@ -1,4 +1,12 @@
-<div align="center">
+<div align="center" style="position: relative;">
+  <!-- Hits Counter -->
+  <div style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%);">
+    <a href="https://hits.seeyoufarm.com" target="_blank">
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frtaeho&count_bg=%2326B4EB&title_bg=%23002984&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=true" alt="Hits">
+    </a>
+  </div>
+
+  <!-- Header Section -->
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00b4d8,100:0077b6&height=200&section=header&text=Taeho%20Ryu&fontSize=60&fontColor=ffffff" alt="header" />
 </div>
 
@@ -27,6 +35,8 @@
 </div>
 
 <br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frtaeho&count_bg=%2326B4EB&title_bg=%23002984&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <div align="center"><h1 style="color: #007BFF; opacity: 0.8;">📚 STACKS</h1></div>
 
