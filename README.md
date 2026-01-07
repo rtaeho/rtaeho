@@ -1,74 +1,92 @@
-<div align="center" style="position: relative;">
-  <!-- Header Section -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00b4d8,100:0077b6&height=200&section=header&text=Taeho%20Ryu&fontSize=60&fontColor=ffffff" alt="header" />
+<!-- ==================== 헤더 ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Taeho%20Ryu&fontSize=50&fontColor=ffffff" alt="header" />
 </div>
 
+<!-- ==================== 기술 스택 ==================== -->
 <div align="center">
-  <table style="border: none; width: 80%; margin: 0 auto; table-layout: fixed;">
-        <tr style="border: none;">
-          <td style="border: none; background-color: transparent; ">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rtaeho&theme=dark&background=000000" alt="GitHub Streaks" />
-      </td>
-      <td style="border: none; background-color: transparent; ">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtaeho&layout=compact&theme=catppuccin_mocha" alt="Top Langs" />
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none; background-color: transparent; ">
-        <img src="https://github-readme-stats.vercel.app/api?username=rtaeho&show_icons=true&theme=holi" alt="GitHub stats"/>
-      </td>
-      <td style="border: none; background-color: transparent; ">
-        <a href="https://solved.ac/ryou0920" target="_blank">
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ryou0920" alt="Solved.ac Profile"/>
-        </a>
-      </td>
-    </tr>
-
-  </table>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </div>
 
 <br>
 
-<div align="center"><h1 style="color: #007BFF; opacity: 0.8;">📚 STACKS</h1></div>
-
-<div align="center" style="margin-top: 10px;"> 
-  <h3 style="color: #007BFF; opacity: 0.8;">프로그래밍 언어</h3>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">  
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-
-  <h3 style="color: #007BFF; opacity: 0.8;">프론트엔드</h3>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-
-  <h3 style="color: #007BFF; opacity: 0.8;">백엔드 & 데이터베이스</h3>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-
-  <h3 style="color: #007BFF; opacity: 0.8;">배포 & 클라우드</h3>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-
-  <h3 style="color: #007BFF; opacity: 0.8;">운영체제</h3>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"> 
-  <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white">
-
-  <h3 style="color: #007BFF; opacity: 0.8;">버전 관리 & 도구</h3>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-
-  <h3 style="color: #007BFF; opacity: 0.8;">협업 & 생산성 도구</h3>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</div>
+<!-- ==================== 좌우 배치 ==================== -->
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>💼 Experience</h3>
+      <ul>
+        <li><code>2025.01 ~ 진행 중</code> SSAFY 15기</li>
+        <li><code>2025.09 ~ 2025.12</code> ICT 인턴십</li>
+        <li><code>2025.03 ~ 2025.06</code> ICT 인턴십</li>
+        <li><code>2020.03 ~ 2026.02</code> 세종대학교 컴퓨터공학과</li>
+      </ul>
+      <h3>🏆 Awards</h3>
+      <ul>
+        <li><code>2025.02</code> 지역대학간 SW캡스톤디자인 경진대회 <b>최우수상</b></li>
+        <li><code>2024.12</code> WE-Meet Project <b>교육부장관상</b></li>
+        <li><code>2024.12</code> IN-JEJU Challenge <b>총장상</b></li>
+        <li><code>2024.12</code> 세종대학교 창의설계경진대회 <b>대상</b></li>
+      </ul>
+      <h3>📜 Certificates</h3>
+      <ul>
+        <li><code>2025.09</code> 정보처리기사</li>
+        <li><code>2025.07</code> OPIc IM1</li>
+        <li><code>2024.12</code> 소프트웨어등록증 & 저작권</li>
+      </ul>
+      <br>
+      <div align="center">
+        <img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <div align="center">
+        <a href="https://solved.ac/ryou0920" target="_blank">
+          <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ryou0920" width="100%"/>
+        </a>
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rtaeho&theme=tokyonight&hide_border=true" width="100%"/>
+        <img src="https://my-github-stats-hazel.vercel.app/api?username=rtaeho&show_icons=true&theme=tokyonight&hide_border=true&v=2" width="100%"/>
+        <img src="https://my-github-stats-hazel.vercel.app/api/top-langs/?username=rtaeho&layout=compact&theme=tokyonight&hide_border=true&v=2" width="100%"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <div align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rtaeho/rtaeho/output/github-snake-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rtaeho/rtaeho/output/github-snake.svg" />
+          <img alt="github-snake" src="https://raw.githubusercontent.com/rtaeho/rtaeho/output/github-snake-dark.svg" width="100%"/>
+        </picture>
+      </div>
+    </td>
+  </tr>
+</table>
