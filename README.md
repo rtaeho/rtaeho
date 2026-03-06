@@ -58,7 +58,7 @@
       <h3>📜 Certificates</h3>
       <ul>
         <li><code>2025.09</code> 정보처리기사</li>
-        <li><code>2025.07</code> OPIc IM1</li>
+        <li><code>2026.03</code> OPIc IH</li>
         <li><code>2024.12</code> 소프트웨어등록증 & 저작권</li>
       </ul>
       <br>
